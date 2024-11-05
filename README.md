@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Eduardo e sou estudante de Engenharia de Software.</h2>
+<h2 align="left">Olá 👋! Meu nome é Eduardo e sou estudante de Engenharia de Software.😃</h2>
 
 ###
 
