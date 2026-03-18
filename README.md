@@ -1,4 +1,4 @@
-<h2 align="left">Me chamo Eduardo Simões, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software na FUSVE e me especializando como desenvolvedor back-end java.😃</h2>
+<h2 align="left">Me chamo Eduardo Simões, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software na FUSVE e me especializando como desenvolvedor Mobile Android.😃</h2>
 
 ###
 
